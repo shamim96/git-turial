@@ -8,4 +8,7 @@ public class Hello {
     public static void age(int age){
         System.out.println("Age is "+ age);
     }
+    public static void message(String messge){
+        System.out.println(messge);
+    }
 }
