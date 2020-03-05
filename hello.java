@@ -3,13 +3,15 @@ public class Hello {
         System.out.println("VS code is awesome");
     }
     public static void display(String name){
-        System.out.println("Welcome"+ name);
+        System.out.println("Welcome Shamim");
     }
-    public static void age(int age){
-        System.out.println("Age is "+ age);
-    }
-    public static void adddress(){
+   
+    public static void adddressUpdated(){
         System.out.println("addres is");
+    }
+
+    public static void newMethod(){
+        System.out.println("this is a new method");
     }
     
 }
