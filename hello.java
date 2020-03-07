@@ -13,5 +13,11 @@ public class Hello {
     public static void newMethod(){
         System.out.println("this is a new method");
     }
+
+    public static void calculate4(){
+        System.out.println("Thank You");
+    }
+
+
     
 }
